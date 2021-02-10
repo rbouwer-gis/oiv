@@ -6,3 +6,4 @@ remote_theme: rundocs/jekyll-rtd-theme
 lang: nl
 readme_index:
   with_frontmatter: true
+theme: jekyll-theme-slate
