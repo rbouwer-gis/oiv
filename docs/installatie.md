@@ -5,7 +5,7 @@ title: Installatie
 
 # Installatie door ServiceDesk
 
-Voor het gebruik van QGIS als tekentool dient de laatste LTR (long-term release) versie 64-bits versie van QGIS te worden geïnstalleerd. Op dit moment 3.16.0. 
+Voor het gebruik van QGIS als tekentool voor operationele informatie voorziening (OIV) dient de laatste LTR (long-term release) versie 64-bits versie van QGIS te worden geïnstalleerd door ICT, aanvraag via BSP. Op dit moment is dat versie 3.16.0.van QGIS. 
 
 [Download de QGIS installer](https://qgis.org/nl/site/forusers/download.html) op je pc en laat QGIS vervolgens installeren door de ServiceDesk.
 
@@ -35,8 +35,7 @@ VRR OIV is de naam voor het QGIS projectbestand wat is geconfigureerd voor het t
 
 ```note
 ## Updates van VRR OIV installeren
-
-Soms komen er nieuwe functionaliteiten zoals iconen of lagen bij in het VRR OIV projectbestand. Volg dan eerder genoemde stappen (downloaden en unzippen) nog een keer en verwijder het oude mapje. De ingetekende gegevens blijven hierbij altijd bewaard.
+Soms komen er nieuwe functionaliteiten zoals iconen of lagen bij in het VRR OIV projectbestand. Volg dan eerder genoemde stappen (downloaden en unzippen) nog een keer en erwijder het oude mapje. De ingetekende gegevens blijven hierbij altijd bewaard.
 
 ```
 ****
