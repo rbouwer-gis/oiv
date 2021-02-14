@@ -5,7 +5,7 @@ title: Installatie
 
 # Installatie door ServiceDesk (BSP)
 
-Voor het gebruik van QGIS als tekentool voor operationele informatie voorziening (OIV) dient de laatste LTR (long-term release) versie 64-bits versie van QGIS te worden geïnstalleerd door ICT, aanvraag via BSP. Op dit moment is dat versie 3.16.0.van QGIS. 
+Voor het gebruik van QGIS als tekentool voor operationele informatie voorziening (OIV) dient de laatste LTR (long-term release) versie 64-bits versie van QGIS te worden geïnstalleerd door ICT, aanvraag via BSP. Op dit moment is dat versie 3.16.0. van QGIS. 
 
 [Download de QGIS installer](https://qgis.org/nl/site/forusers/download.html) op je pc en laat QGIS vervolgens installeren door de ServiceDesk.
 
